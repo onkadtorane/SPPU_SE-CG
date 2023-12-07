@@ -1,3 +1,4 @@
+Pattern Drawing  DDA line genertion and Bresenhem circle generation algorithm
 #include<iostream>
 #include<graphics.h>
 #include<stdlib.h>
